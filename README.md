@@ -1,16 +1,49 @@
-### Hi there 👋
+[![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaarmetta/)
+<img align="right" src="https://komarev.com/ghpvc/?username=simoneponginibbio&color=green&label=PROFILE+VIEWS&style=for-the-badge">
 
-<!--
-**lucaarmetta/LucaArmetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+<ul>
+  <li>My name is <b>Luca</b> and I'm from <b>Milan</b> 🇮🇹</li>
+  <li>I work as a <b>software developer</b> on finance and banking solutions at <a href="https://www.reply.com/iriscube-reply/it/"><b>Iriscube Reply</b></a> 💼</li>
+  <li>I gratuated in <b>Computer Science for Digital Communication</b> at <a href="https://www.unimi.it/"><b>Università degli Studi di Milano</b></a> 🎓</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## Web - Programming Language
+
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
+![React](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%61dafb)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+
+## Web - Frameworks
+
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## Data bases
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?&style=for-the-badge&logo=mongodb&logoColor=white)
+
+## IDEs
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## Editors
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141.svg?&style=for-the-badge&logo=Overleaf&logoColor=white)
+
+## Documents
+
+![Latex](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
