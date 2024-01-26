@@ -1,5 +1,4 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaarmetta/)
-<img align="right" src="https://komarev.com/ghpvc/?username=simoneponginibbio&color=green&label=PROFILE+VIEWS&style=for-the-badge">
 
 # About me
 
