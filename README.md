@@ -1,5 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaarmetta/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:armetta.luca@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)(mailto:armetta.luca@gmail.com)
 
 # About me
 
@@ -11,9 +11,9 @@
 
 ## Programming Languages
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)]
-[![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## Web - Programming Language
 
