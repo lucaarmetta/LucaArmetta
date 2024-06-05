@@ -50,7 +50,7 @@
 ## Deployment Systems
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-[Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?logo=azurepipelines&logoColor=fff)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?logo=azurepipelines&logoColor=fff)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)
 
 ## Versioning Control Systems
