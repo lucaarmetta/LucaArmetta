@@ -1,5 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaarmetta/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)(mailto:armetta.luca@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:armetta.luca@gmail.com)
 
 # About me
 
