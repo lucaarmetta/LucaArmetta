@@ -14,15 +14,15 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![GoLang](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
 
 ## Markup Languages
 
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 
-## Frameworks
+## Frameworks / Libraries
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
