@@ -5,15 +5,15 @@
 
 <ul>
   <li>My name is <b>Luca</b> and I'm from <b>Milan</b> 🇮🇹</li>
-  <li>I work as a <b>software developer</b> on finance and banking solutions at <a href="https://www.reply.com/iriscube-reply/it/"><b>Iriscube Reply</b></a> 💼</li>
+  <li>I work as a <b>software engineer</b> on finance and banking solutions at <a href="https://www.reply.com/iriscube-reply/it/"><b>Iriscube Reply</b></a> 💼</li>
   <li>I gratuated in <b>Computer Science for Digital Communication</b> at <a href="https://www.unimi.it/"><b>Università degli Studi di Milano</b></a> 🎓</li>
 </ul>
 
 ## Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)]
+[![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]
 
 ## Web - Programming Language
 
