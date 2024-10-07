@@ -5,7 +5,7 @@
 
 <ul>
   <li>I'm <b>Luca</b> and I'm from <b>Milan</b> 🇮🇹</li>
-  <li>I work as a <b>software engineer</b> on finance and banking solutions at <a href="https://www.reply.com/iriscube-reply/it/"><b>Iriscube Reply</b></a> 💼</li>
+  <li>I work as a <b>software engineer</b> on finance and banking solutions at <a href="https://www.pwc.com/it/it.html"><b>PwC Italy</b></a> 💼</li>
   <li>I gratuated in <b>Computer Science for Digital Communication</b> at <a href="https://www.unimi.it/"><b>Università degli Studi di Milano</b></a> 🎓</li>
 </ul>
 
