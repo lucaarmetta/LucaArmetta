@@ -71,14 +71,14 @@
 ![GitHub](https://img.shields.io/badge/Github-171820.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-2F88FF.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white)
 
-## Documentation
-
-![Confluence](https://img.shields.io/badge/confluence-145AD1.svg?&style=for-the-badge&logo=confluence&logoColor=white)
-
 ## Documents
 
 ![Latex](https://img.shields.io/badge/latex%20-148485.svg?&style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-080808.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Documentation
+
+![Confluence](https://img.shields.io/badge/confluence-145AD1.svg?&style=for-the-badge&logo=confluence&logoColor=white)
 
 ## Meetings
 
