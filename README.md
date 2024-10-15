@@ -46,15 +46,15 @@
 
 ## IDEs / Code Editors
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-A163DC.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-BEE684?style=for-the-badge&logo=PyCharm&logoColor=black)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FB3C67.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-FCF852?style=for-the-badge&logo=PyCharm&logoColor=black)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-2EAEF3.svg?style=for-the-badge&logo=vsc&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-45DD88?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-2897EC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9A17.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Notepad++](https://img.shields.io/badge/Notepad++-ACF383.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-44367B.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-B3C4CE.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ## Deployment Systems
 
