@@ -22,20 +22,20 @@
 
 ## Markup Languages
 
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML-E5532F.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-306AF1?style=for-the-badge&logo=css3&logoColor=fff)
 
 ## Frameworks / Libraries
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-72B545?style=for-the-badge&logo=springboot&logoColor=fff)
+![Django](https://img.shields.io/badge/django-184435.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-68DBFB.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-1777B7?style=for-the-badge&logo=jquery&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-387CC8?style=for-the-badge&logo=typescript&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/Node.js-84BF18?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DF1538.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-64CBF7?style=for-the-badge&logo=flutter&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7D1AF8?style=for-the-badge&logo=bootstrap&logoColor=fff)
 
 ## Databases
 
