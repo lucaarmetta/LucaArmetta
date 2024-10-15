@@ -80,6 +80,12 @@
 ![Latex](https://img.shields.io/badge/latex%20-148485.svg?&style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-080808.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+## Meetings
+
+![Slack](https://img.shields.io/badge/Slack-501D52?style=for-the-badge&logo=slack&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-8086EB?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google%20Meet-3CAB58?style=for-the-badge&logo=google-meet&logoColor=white)
+
 ## Package Managers
 
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB248?style=for-the-badge&logo=homebrew&logoColor=black)
