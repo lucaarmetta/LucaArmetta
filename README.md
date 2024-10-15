@@ -56,7 +56,7 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-ACF383.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-44367B.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-B3C4CE.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=black)
-![Overleaf](https://img.shields.io/badge/Overleaf-166A36.svg?&style=for-the-badge&logo=Overleaf&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A140.svg?&style=for-the-badge&logo=Overleaf&logoColor=white)
 
 ## Deployment Systems
 
