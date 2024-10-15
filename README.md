@@ -12,7 +12,7 @@
 ## Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-F99B28.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFE979?style=for-the-badge&logo=python&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-447DAE?style=for-the-badge&logo=python&logoColor=fff)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Dart](https://img.shields.io/badge/Dart-6DE6D5.svg?style=for-the-badge&logo=dart&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
