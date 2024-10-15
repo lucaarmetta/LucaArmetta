@@ -61,12 +61,12 @@
 ## Deployment Systems
 
 ![Docker](https://img.shields.io/badge/Docker-1772D8?style=for-the-badge&logo=docker&logoColor=fff)
-![Microsoft Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-3168E2?style=for-the-badge&logo=azurepipelines&logoColor=fff)
+![Microsoft Azure Pipelines](https://img.shields.io/badge/Microsoft%20Azure%20Pipelines-3168E2?style=for-the-badge&logo=azurepipelines&logoColor=fff)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D53F39?style=for-the-badge&logo=jenkins&logoColor=fff)
 
 ## Versioning Control Systems
 
-![Microsoft Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-137CD8?style=for-the-badge&logo=azuredevops&logoColor=fff)
+![Microsoft Azure DevOps](https://img.shields.io/badge/Microsoft%20Azure%20DevOps-137CD8?style=for-the-badge&logo=azuredevops&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F1563B?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/Github-171820.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-2F88FF.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white)
