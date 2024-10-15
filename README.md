@@ -71,6 +71,12 @@
 ![GitHub](https://img.shields.io/badge/Github-171820.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-2F88FF.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white)
 
+## Package Managers
+
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB248?style=for-the-badge&logo=homebrew&logoColor=black)
+![npm](https://img.shields.io/badge/npm-BA3734?style=for-the-badge&logo=npm&logoColor=fff)
+![Yarn](https://img.shields.io/badge/Yarn-3592BD?style=for-the-badge&logo=yarn&logoColor=fff)
+
 ## Documents
 
 ![Latex](https://img.shields.io/badge/latex%20-148485.svg?&style=for-the-badge&logo=latex&logoColor=white)
@@ -85,9 +91,3 @@
 ![Slack](https://img.shields.io/badge/Slack-501D52?style=for-the-badge&logo=slack&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-8086EB?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-3CAB58?style=for-the-badge&logo=google-meet&logoColor=white)
-
-## Package Managers
-
-![Homebrew](https://img.shields.io/badge/Homebrew-FBB248?style=for-the-badge&logo=homebrew&logoColor=black)
-![npm](https://img.shields.io/badge/npm-BA3734?style=for-the-badge&logo=npm&logoColor=fff)
-![Yarn](https://img.shields.io/badge/Yarn-3592BD?style=for-the-badge&logo=yarn&logoColor=fff)
