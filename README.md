@@ -36,6 +36,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DF1538.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-64CBF7?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7D1AF8?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![Swagger](https://img.shields.io/badge/swagger-80ED55.svg?&style=for-the-badge&logo=swagger&logoColor=black)
 
 ## Databases
 
@@ -66,6 +67,12 @@
 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-137CD8?style=for-the-badge&logo=azuredevops&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F1563B?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/Github-171820.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-2F88FF.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white)c
+
+## Documentation
+
+![Confluence](https://img.shields.io/badge/confluence-145AD1.svg?&style=for-the-badge&logo=confluence&logoColor=white)
 
 ## Package Managers
 
