@@ -13,12 +13,12 @@
 
 ![Java](https://img.shields.io/badge/Java-F99B28.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-447DAE?style=for-the-badge&logo=python&logoColor=fff)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Javascript](https://img.shields.io/badge/JavaScript-F7E02A?style=for-the-badge&logo=javascript&logoColor=000)
 ![Dart](https://img.shields.io/badge/Dart-6DE6D5.svg?style=for-the-badge&logo=dart&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![GoLang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F1553C?style=for-the-badge&logo=swift&logoColor=white)
+![GoLang](https://img.shields.io/badge/Go-1EAFD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-404CAF?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-7B7FB6.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## Markup Languages
 
