@@ -78,6 +78,7 @@
 ## Documents
 
 ![Latex](https://img.shields.io/badge/latex%20-148485.svg?&style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-080808.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Package Managers
 
