@@ -20,12 +20,12 @@
 ![C](https://img.shields.io/badge/C-404CAF?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-7B7FB6.svg?style=for-the-badge&logo=php&logoColor=white)
 
-#### Markup Languages
+### Markup Languages
 
 ![HTML5](https://img.shields.io/badge/HTML-E5532F.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1472B6?style=for-the-badge&logo=css3&logoColor=fff)
 
-#### Frameworks / Libraries
+### Frameworks / Libraries
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-72B545?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Django](https://img.shields.io/badge/django-184435.svg?style=for-the-badge&logo=django&logoColor=white)
