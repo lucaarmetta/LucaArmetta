@@ -58,17 +58,17 @@
 
 ## Deployment Systems
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=fff)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-1772D8?style=for-the-badge&logo=docker&logoColor=fff)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-3168E2?style=for-the-badge&logo=azurepipelines&logoColor=fff)
+![Jenkins](https://img.shields.io/badge/Jenkins-D53F39?style=for-the-badge&logo=jenkins&logoColor=fff)
 
 ## Versioning Control Systems
 
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-137CD8?style=for-the-badge&logo=azuredevops&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F1563B?style=for-the-badge&logo=git&logoColor=fff)
 
 ## Package Managers
 
-![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff)
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB248?style=for-the-badge&logo=homebrew&logoColor=black)
+![npm](https://img.shields.io/badge/npm-BA3734?style=for-the-badge&logo=npm&logoColor=fff)
+![Yarn](https://img.shields.io/badge/Yarn-3592BD?style=for-the-badge&logo=yarn&logoColor=fff)
