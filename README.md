@@ -23,7 +23,7 @@
 ## Markup Languages
 
 ![HTML5](https://img.shields.io/badge/HTML-E5532F.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-306AF1?style=for-the-badge&logo=css3&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS-1472B6?style=for-the-badge&logo=css3&logoColor=fff)
 
 ## Frameworks / Libraries
 
