@@ -56,6 +56,7 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-ACF383.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-44367B.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-B3C4CE.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=black)
+![Overleaf](https://img.shields.io/badge/Overleaf-166A36.svg?&style=for-the-badge&logo=Overleaf&logoColor=white)
 
 ## Deployment Systems
 
@@ -73,6 +74,10 @@
 ## Documentation
 
 ![Confluence](https://img.shields.io/badge/confluence-145AD1.svg?&style=for-the-badge&logo=confluence&logoColor=white)
+
+## Documents
+
+![Latex](https://img.shields.io/badge/latex%20-148485.svg?&style=for-the-badge&logo=latex&logoColor=white)
 
 ## Package Managers
 
