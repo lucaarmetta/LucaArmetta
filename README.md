@@ -47,7 +47,7 @@
 ## IDEs / Code Editors
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-A163DC.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-BEE684?style=for-the-badge&logo=PyCharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-BEE684?style=for-the-badge&logo=PyCharm&logoColor=black)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](#)
