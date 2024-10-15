@@ -29,7 +29,7 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-72B545?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Django](https://img.shields.io/badge/django-184435.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-68DBFB.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-68DBFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-1777B7?style=for-the-badge&logo=jquery&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-387CC8?style=for-the-badge&logo=typescript&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/Node.js-84BF18?style=for-the-badge&logo=node.js&logoColor=white)
