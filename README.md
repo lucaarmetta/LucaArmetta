@@ -68,7 +68,7 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-137CD8?style=for-the-badge&logo=azuredevops&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F1563B?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/Github-171820.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-2F88FF.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white)c
+![Bitbucket](https://img.shields.io/badge/Bitbucket-2F88FF.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white)
 
 ## Documentation
 
