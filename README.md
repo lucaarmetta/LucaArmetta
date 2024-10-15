@@ -51,10 +51,10 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-2EAEF3.svg?style=for-the-badge&logo=vsc&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-45DD88?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-2897EC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9A17.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9A17.svg?style=for-the-badge&logo=sublime-text&logoColor=black)
 ![Notepad++](https://img.shields.io/badge/Notepad++-ACF383.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-44367B.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-B3C4CE.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-B3C4CE.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=black)
 
 ## Deployment Systems
 
